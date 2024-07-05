@@ -50,5 +50,9 @@ deploy [tick] [max] [lim] [dec] [--bitwork bitwork] [--sch sch] [ --start start_
 ```
 mint [tick] [--amount amount_per_mint] [--loop loop_mint] [--bitwork bitwork] [--stop stop_on_fail]
 ```
+e.g.
+```
+mint DID --a 39.0625 --l 10
+```
 
 Other commands are same as original version.
