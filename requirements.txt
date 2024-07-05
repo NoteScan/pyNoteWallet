@@ -1,0 +1,10 @@
+base58==2.1.1
+bip32utils==0.3.post4
+bitcoin_utils==0.6.8
+btclib==2023.7.12
+ecdsa==0.18.0
+mnemonic==0.21
+msgpack_python==0.5.6
+python-dotenv==1.0.1
+python_bitcointx==1.1.5
+Requests==2.32.3
